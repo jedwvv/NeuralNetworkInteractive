@@ -3,4 +3,4 @@ ipympl
 matplotlib
 networkx
 numpy
-torch
+pytorch-lightning
